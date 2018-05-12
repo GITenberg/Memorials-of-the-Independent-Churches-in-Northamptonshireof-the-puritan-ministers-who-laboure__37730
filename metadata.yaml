@@ -1,0 +1,28 @@
+_repo: Memorials-of-the-Independent-Churches-in-Northamptonshireof-the-puritan-ministers-who-laboure__37730
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coleman, Thomas
+    gutenberg_agent_id: '39016'
+    url: http://www.gutenberg.org/2009/agents/39016
+description: ''
+gutenberg_issued: '2011-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37730'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Independent churches -- England -- Northamptonshire'
+- !lcsh 'Clergy -- England -- Northamptonshire'
+- !lcc 'BX'
+- !lcsh 'Puritans -- England -- Northamptonshire'
+title: "Memorials of the Independent Churches in Northamptonshire\r\nwith biographical\
+  \ notices of their pastors, and some account of the puritan ministers who laboured\
+  \ in the county."
+url: http://www.gutenberg.org/ebooks/37730
